@@ -1,5 +1,4 @@
 #cabesalho_img{margin: -25px 0px;}
-
 #cabesalho_name{
     font-family: freehand521 bt;
     font-size: 550%;    
@@ -16,3 +15,6 @@ body{
     text-align: center;
     font-size: 300%;
     color: #ffffff; }
+
+#mensagem_01{text-align: center;
+color: blanchedalmond}
