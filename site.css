@@ -1,0 +1,18 @@
+#cabesalho_img{margin: -25px 0px;}
+
+#cabesalho_name{
+    font-family: freehand521 bt;
+    font-size: 550%;    
+    padding: 45%;
+    margin: -40% 10% 0px 0px ;
+    left: -8%;
+    position: absolute;
+    color: #ffffff; }
+body{
+    background: black;
+}
+#eslogam{
+    font-family: freehand521 bt;
+    text-align: center;
+    font-size: 300%;
+    color: #ffffff; }
